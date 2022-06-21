@@ -1,0 +1,3 @@
+#org.springframework.context.ApplicationContextInitializer=com.secbro2.initializer.LearnApplicationContextInitializer
+#org.springframework.context.ApplicationListener=com.secbro2.listener.LearnListener
+org.springframework.boot.SpringApplicationRunListener=com.secbro2.listener.MyApplicationRunListener
